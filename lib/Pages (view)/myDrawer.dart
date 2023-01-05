@@ -97,8 +97,8 @@ class _MyDrawerState extends State<MyDrawer> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: const [
                     Center(child: Text("Support",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 15),)),
-                    Center(child: Text("Contact: 0311-6390005")),
-                    Center(child: Text("Email: hammadasghar460@gmail.com"))
+                    Center(child: Text("Contact: 03056989967")),
+                    Center(child: Text("Email: sg03056924122@gmail.com"))
                   ],
                 ),
               ),
