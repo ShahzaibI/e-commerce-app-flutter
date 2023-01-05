@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714595500998",
+    "project_id": "signprac-de9b0",
+    "storage_bucket": "signprac-de9b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714595500998:android:7702c46c51ba98c7f3e8c7",
+        "android_client_info": {
+          "package_name": "com.example.signinprac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714595500998-eber8arbg4t3vch4mteacc82tf5ubkj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnH6EiQ6gWdSNPQguEKDUk6F4cxuXgVNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714595500998-eber8arbg4t3vch4mteacc82tf5ubkj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
